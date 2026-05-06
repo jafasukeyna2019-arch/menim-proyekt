@@ -19,7 +19,8 @@ The dashboard includes:
 
 Dashboard preview:
 
-![Dashboard](dashboard.png)
+<img width="1438" height="846" alt="Screenshot 2026-05-06 190230" src="https://github.com/user-attachments/assets/2b4b74f9-fb3a-4417-bb7e-3061a2ff3d0c" />
+
 
 ## 📁 File
 
