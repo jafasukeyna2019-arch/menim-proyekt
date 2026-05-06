@@ -1,42 +1,45 @@
-# 📊 HR Analiz Layihəsi
+# 📊 HR Analytics Project
 
-Bu mənim ilk GitHub layihəmdir. Bu layihədə HR (insan resursları) məlumatları analiz olunmuş və dashboard şəklində təqdim edilmişdir.
+This is my first GitHub project. In this project, HR (Human Resources) data has been analyzed and presented in a dashboard format.
 
-## 🔍 Layihə haqqında
+## 🔍 About the Project
 
-Bu layihədə işçilərə aid məlumatlar analiz edilmişdir. Dashboard vasitəsilə əsas göstəricilər aydın və vizual şəkildə göstərilir.
+In this project, employee data is analyzed. The dashboard shows key indicators in a clear and visual way.
 
-Dashboard-da aşağıdakı məlumatlar yer alır:
+The dashboard includes:
 
-- Ümumi işçi sayı
-- İşdən ayrılma faizi (Attrition rate)
-- Orta aylıq maaş
-- İşçi məmnunluğu
-- İş təcrübəsinə görə analiz
-- OverTime ilə bağlı analizlər
+- Total number of employees
+- Attrition rate
+- Average monthly income
+- Job satisfaction
+- Analysis by working years
+- Overtime analysis
 
 ## 📊 Dashboard
 
-Dashboard görüntüsü:
+Dashboard preview:
 
-<img width="1438" height="846" alt="Screenshot 2026-05-06 190230" src="https://github.com/user-attachments/assets/33335158-68c6-4882-b749-9b12769d59e3" />
+![Dashboard](dashboard.png)
 
+## 📁 File
 
-## 📁 Fayl
+- [Data (1).pptx](Data%20(1).pptx)
 
-- [Data (1).pptx](Data%20(1).pptx) → Layihənin təqdimatı və izahı
+Note: Please download the file to view the presentation.
 
-## 🎯 Məqsəd
+## 🎯 Purpose
 
-Bu layihənin məqsədi:
-- HR məlumatlarını analiz etmək
-- Məlumatları daha aydın göstərmək
-- Analiz bacarıqlarını inkişaf etdirmək
+The purpose of this project is to:
 
-## 👥 Qrup işi
+- Analyze HR data  
+- Present data in a clear way  
+- Improve data analysis skills  
 
-Bu layihə qrup işi kimi hazırlanmışdır.
+## 👥 Group Work
 
-## 📌 Qeyd
+This project was prepared as a group assignment.
 
-Bu layihə öyrənmə məqsədilə hazırlanmışdır və mənim ilk GitHub təcrübəmdir.
+## 📌 Note
+
+This project was created for learning purposes and it is my first GitHub experience.
+
