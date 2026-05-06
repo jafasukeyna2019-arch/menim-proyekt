@@ -34,8 +34,29 @@ The purpose of this project is to:
 
 - Analyze HR data  
 - Present data in a clear way  
-- Improve data analysis skills  
+- Improve data analysis skills
+   
 
+## 📈 Key Results
+
+Based on the analysis, the following insights were identified:
+
+- The attrition rate shows that some employees are leaving the company.
+- Employees who work overtime tend to have higher attrition.
+- Job satisfaction levels differ by gender.
+- Employees with fewer working years are more likely to leave.
+- Average monthly income varies across employees.
+
+## 📊 KPIs
+
+The following KPIs were calculated:
+
+- Total number of employees
+- Attrition rate (%)
+- Average monthly income
+- Job satisfaction level
+- Attrition by overtime
+- Attrition by working years
 ## 👥 Group Work
 
 This project was prepared as a group assignment.
