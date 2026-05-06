@@ -19,7 +19,8 @@ Dashboard-da aşağıdakı məlumatlar yer alır:
 
 Dashboard görüntüsü:
 
-![Dashboard](dashboard.png)
+<img width="1438" height="846" alt="Screenshot 2026-05-06 190230" src="https://github.com/user-attachments/assets/33335158-68c6-4882-b749-9b12769d59e3" />
+
 
 ## 📁 Fayl
 
