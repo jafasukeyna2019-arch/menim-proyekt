@@ -24,7 +24,7 @@ Dashboard görüntüsü:
 
 ## 📁 Fayl
 
-- Data (1).pptx → Layihənin təqdimatı və izahı
+- [Data (1).pptx](Data%20(1).pptx) → Layihənin təqdimatı və izahı
 
 ## 🎯 Məqsəd
 
